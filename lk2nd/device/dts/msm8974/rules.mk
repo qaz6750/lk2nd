@@ -12,3 +12,4 @@ QCDTBS += \
 ADTBS += \
 	$(LOCAL_DIR)/msm8974-lge-hammerhead.dtb \
 	$(LOCAL_DIR)/victara.dtb \
+	$(LOCAL_DIR)/msm8974-lumia-martini.dtb \
